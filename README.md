@@ -7,7 +7,6 @@
 <h1 align="center">¡ Soy nuevo en esto, aun no se mucho, pero hago lo que puedo !</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franafp" alt="fran_afp_" /> </p>
 
-
 -  Estoy aprendiendo a hacer bots de **Discord**
 
 -  Me gustaria aprender**Python, C++ and C#** 
