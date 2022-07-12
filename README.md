@@ -7,7 +7,7 @@
 
 - 💻Sometimes I like to program and develop **FiveM**
 
-- 📝 In this moment I work on Panda Shop [https://discord.gg/BStjvRtHMm](https://discord.gg/BStjvRtHMm)
+- 📝 My discord Community [[https://discord.gg/BStjvRtHMm](https://discord.gg/vCGcPjVC)](https://discord.gg/BStjvRtHMm)
 
 - 🧠I would like to learn **C++, C+...**
 
