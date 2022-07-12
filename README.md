@@ -7,29 +7,9 @@
 <h1 align="center">¡ Soy nuevo en esto, aun no se mucho, pero hago lo que puedo !</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franafp" alt="fran_afp_" /> </p>
 
--  Estoy aprendiendo a hacer bots de **Discord**
+-  Estoy aprendiendo a hacer bots de **Discord** 
 
--  Me gustaria aprender**Python, C++ and C#** 
-
--  Programo y diseño un poco de **FiveM**
-
-<p align="center">
-</p>
-
-
-<h3 align="center">Ahora mismo estoy centrado en Panda Shop y Panda W00FER</h3>
-<p align="center">
-<a href="https://discord.gg/bneHqZ8gJN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Panda W00FER" height="30" width="40" /></a>
-<a href="https://discord.gg/BStjvRtHMm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Panda SHOP" height="30" width="40" /></a>
-</p>
-
-<h1 align="center">¡ Soy nuevo en esto, aun no se mucho, pero hago lo que puedo !</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=franafp" alt="fran_afp_" /> </p>
-
-
--  Estoy aprendiendo a hacer bots de **Discord**
-
--  Me gustaria aprender **Python, C++ and C#** 
+-  Me gustaria aprender **Python**, **C++** and ** C#** 
 
 -  Programo y diseño un poco de **FiveM**
 
@@ -37,10 +17,10 @@
 </p>
 
 
-<h3 align="center">Ahora mismo estoy centrado en Panda Shop y Panda W00FER</h3>
+<h3 align="center">Ahora mismo estoy centrado en Panda Shop</h3>
 <p align="center">
-<a href="https://discord.gg/bneHqZ8gJN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Panda W00FER" height="30" width="40" /></a>
-<a href="https://discord.gg/BStjvRtHMm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Panda SHOP" height="30" width="40" /></a>
+<a href="https://discord.gg/BStjvRtHMm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme
+generator/master/src/images/icons/Social/discord.svg" alt="Panda SHOP" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franafp&show_icons=true&locale=en&layout=compact" alt="fran_afp_" /></p>
