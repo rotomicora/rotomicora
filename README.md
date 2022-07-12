@@ -16,11 +16,6 @@
 <p align="center">
 </p>
 
-
-<h3 align="center">Ahora mismo estoy centrado en Panda Shop</h3>
-<p align="center">
-<a href="https://discord.gg/BStjvRtHMm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/discord.svg" alt="Panda SHOP" height="30" width="40" /></a>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franafp&show_icons=true&locale=en&layout=compact" alt="fran_afp_" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franafp&show_icons=true&locale=en" alt="fran_afp_" /></p>
