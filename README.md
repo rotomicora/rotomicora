@@ -1,24 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Road+Rage&size=40&duration=4000&color=00F7EFF1&center=true&vCenter=true&width=376&lines=Hola%2C+soy+Fran+y+este+es+mi+GitHub)](https://git.io/typing-svg)
+<h1 align="center">Hello, I'm Fran</h1>
+<h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
+- 🔭 I’m currently working on [DoxFran](https://github.com/franafp/Fran-Dox-Tool)
 
+- 🔰I’m currently learning **Python, and little JavaScript**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Road+Rage&size=40&duration=4000&color=00F7EFF1&center=true&vCenter=true&width=376&lines=Hello%2C+I'm+Fran%2C+and+this+is+my+GitHub)](https://git.io/typing-svg)
+- 💻Sometimes I like to program and develop **FiveM**
 
-<h1 align="center">¡ Soy nuevo en esto, aun no se mucho, pero hago lo que puedo !</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=franafp" alt="fran_afp_" /> </p>
+- 📝 In this moment I work on Panda Shop [https://discord.gg/BStjvRtHMm](https://discord.gg/BStjvRtHMm)
 
--  Estoy aprendiendo a hacer bots de **Discord** 
+- 🧠I would like to learn **C++, C+...**
 
--  Me gustaria aprender **Python**, **C++** and ** C#** 
+- 📫 My Discord ID **fran_afp_#0001**
 
--  Programo y diseño un poco de **FiveM**
-
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/fran_afp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fran_afp_" height="30" width="40" /></a>
+<a href="https://discord.gg/vCGcPjVC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vCGcPjVC" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franafp&show_icons=true&locale=en&layout=compact" alt="fran_afp_" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=franafp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="fran_afp_" /></p>
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
