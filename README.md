@@ -7,7 +7,7 @@
 
 - 💻Sometimes I like to program and develop **FiveM**
 
-- 📝 My discord Community[https://discord.gg/vCGcPjVC](https://discord.gg/vCGcPjVC)
+- 📝 My discord Community [https://discord.gg/vCGcPjVC](https://discord.gg/vCGcPjVC)
 
 - 🧠I would like to learn **C++, C+...**
 
