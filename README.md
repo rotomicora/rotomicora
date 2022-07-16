@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Fran</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
-- 🔭 I’m currently working on [DoxFran](https://github.com/franafp/Fran-Dox-Tool)
+- 🔭 I’m currently working on [Noxius](https://github.com/Noxius-TM)
 
 - 🔰I’m currently learning **Python, and little JavaScript**
 
