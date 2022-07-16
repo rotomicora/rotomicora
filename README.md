@@ -7,7 +7,7 @@
 
 - 💻Sometimes I like to program and develop **FiveM**
 
-- 📝 My discord Community [@fran_afp_#0001](https://discord.gg/vCGcPjVC)
+- 📝 Discord [Noxius](https://discord.gg/vCGcPjVC)
 
 - 🧠I would like to learn **C++, C+...**
 
