@@ -11,7 +11,7 @@
 
 - 🧠I would like to learn **C++, C+...**
 
-- 📫 My Discord ID **fran_afp_#0001**
+- 📫 My Discord ID **fran_afp_#9419**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
