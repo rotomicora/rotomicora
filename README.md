@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Noxius](https://github.com/Noxius-TM)
 
-- 🔰I’m currently learning **Python, and little JavaScript**
+- 🔰I’m currently learning **Python**, and little **Lua**
 
 - 💻Sometimes I like to program and develop **FiveM**
 
