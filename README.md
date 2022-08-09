@@ -1,17 +1,17 @@
 <h1 align="center">Hello, I'm Fran</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
-- 🔭 I’m currently working on [Noxius](https://github.com/Noxius-TM)
+- 🔭 I’m currently working on [HumanityRP](https://discord.gg/humanityrp)
 
 - 🔰I’m currently learning **Python**, and little **Lua**
 
 - 💻Sometimes I like to program and develop **FiveM**
 
-- 📝 Discord [Noxius](https://discord.gg/vCGcPjVC)
+- 📝 Discord [Noxius](https://discord.gg/vkvCkHwg)
 
 - 🧠I would like to learn **C++, C+...**
 
-- 📫 My Discord ID **fran_afp_#9419**
+- 📫 My Discord ID **fran_afp_#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
