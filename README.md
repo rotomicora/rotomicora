@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Fran</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
-<iframe> src="https://github.com/sponsors/franafp/card" title="Sponsor franafp" height="225" width="600" style="border: 0;" </iframe>
 
 - 🔭 I’m currently working on [HumanityRP](https://discord.gg/humanityrp)
 
