@@ -1,12 +1,9 @@
 <h1 align="center">Hello, I'm Fran</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
-<p><img align="center" src="https://discord.gg/noxius-tm" alt="franafp" />
 
 - 🔭[HumanityRP](https://discord.gg/humanityrp)
 
-- 🔰I’m currently learning **Python**, and little **Lua**
-
-- 💻Sometimes I like to program and develop **FiveM**
+- 🔰I’m currently learning **Python**
 
 - 📝Discord [Noxius](https://discord.gg/noxius)
 
