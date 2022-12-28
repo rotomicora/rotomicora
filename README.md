@@ -10,9 +10,9 @@
 
 
 <p align="center">
-<a href="https://www.twitter.com/Pandaxyzzz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Pandaxyzzz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Pandaxyz-xd" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/fran_afp_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/fran_afp_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/franafp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Pandaxyz-xd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
