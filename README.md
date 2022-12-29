@@ -13,11 +13,11 @@
 <a href="https://www.twitter.com/fran_afp_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/fran_afp_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/franafp" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Pandaxyz-xd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/franafp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,scss,ts,js,python,rust,go,unity,godot,c,cpp,cs"/>
+<img src="https://skillicons.dev/icons?i=cs,discord,bots,dotnet,github,linux,py,visualstudio,vscode,"/>
 </p>
 
 
