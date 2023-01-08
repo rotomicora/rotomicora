@@ -1,5 +1,7 @@
 <div align="center">
  <img src="https://cdn.upload.systems/uploads/FuLfK6ug.gif">
+ <p>14 Years Old</p>
+ <p>Spanish</p>
 </div>
 
 
