@@ -4,17 +4,17 @@
 
 ```python
  def fran_afp_(self):
-    self.age = "14 years old"
-    self.name = "fran_afp_"
-    self.twitter = "https://twitter.com/fran_afp"
-    self.youtube = "https://www.youtube.com/fran_afp_"
-    self.website = "https://franafp.es"
+self.age = "14 years old"
+self.name = "fran_afp_"
+self.twitter = "https://twitter.com/fran_afp"
+self.youtube = "https://www.youtube.com/fran_afp_"
+self.website = "https://franafp.es"
 
-    print(f"Age: {self.age}")
-    print(f"Name: {self.name}")
-    print(f"Twitter: {self.twitter}")
-    print(f"YouTube: {self.youtube}")
-    print(f"Website: {self.website}")
+print(f"Age: {self.age}")
+print(f"Name: {self.name}")
+print(f"Twitter: {self.twitter}")
+print(f"YouTube: {self.youtube}")
+print(f"Website: {self.website}")
 (fran_afp_)
 ```
 
