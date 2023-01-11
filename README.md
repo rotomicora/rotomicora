@@ -1,27 +1,32 @@
 <div align="center">
- <img src="https://franafp.es/media/retro.png"
+ <img src="https://franafp.es/media/retro.png" width="100">
+</div>
+<div align="left">
+ 
+
+ ```python
+def fran_afp_(self):
+  self.age = "14 years old"
+  self.name = "fran_afp_"
+  self.twitter = "https://twitter.com/fran_afp"
+  self.youtube = "https://www.youtube.com/fran_afp_"
+  self.website = "https://franafp.es"
+
+  print(f"Age: {self.age}")
+  print(f"Name: {self.name}")
+  print(f"Twitter: {self.twitter}")
+  print(f"YouTube: {self.youtube}")
+  print(f"Website: {self.website}")
+fran_afp_()
+```
 </div>
 
-```python
- def fran_afp_(self):
-self.age = "14 years old"
-self.name = "fran_afp_"
-self.twitter = "https://twitter.com/fran_afp"
-self.youtube = "https://www.youtube.com/fran_afp_"
-self.website = "https://franafp.es"
-
-print(f"Age: {self.age}")
-print(f"Name: {self.name}")
-print(f"Twitter: {self.twitter}")
-print(f"YouTube: {self.youtube}")
-print(f"Website: {self.website}")
-(fran_afp_)
-```
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franafp&layout=compact&exclude_repo=franafp.github.io,NPC_medico-FIVEM&theme=dark&langs_count=6)
+![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=franafp&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true)
 
 <p align="center">
-<a href="https://discord.com/users/1003701036906725446">
-<img src="https://lanyard-profile-readme.vercel.app/api/1003701036906725446?theme=dark&bg=292b2f&animated=false&hideDiscrim=true&borderRadius=27px&idleMessage=retrosecurity.xyz">
+<a href="https://discord.com/users/1060650362643697816">
+<img src="https://lanyard-profile-readme.vercel.app/api/1060650362643697816?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=27px&idleMessage=franafp.es">
 
 
 
