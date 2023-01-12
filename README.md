@@ -21,7 +21,8 @@ fran_afp_()
 ```
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franafp&layout=compact&exclude_repo=franafp.github.io,NPC_medico-FIVEM&theme=dark&langs_count=6)   ![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=franafp&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franafp&layout=compact&exclude_repo=franafp.github.io,NPC_medico-FIVEM&theme=dark&langs_count=6)
+![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=franafp&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true)
 
 <p align="center">
 <a href="https://discord.com/users/1060650362643697816">
