@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://franafp.es/media/retro.png" width="100">
+ <img src="https://cdn.discordapp.com/attachments/1060651317615415306/1065662790276235385/image.png" width="700" height="400">
 </div>
 <div align="left">
  
