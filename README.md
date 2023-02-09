@@ -1,8 +1,4 @@
-<div align="center">
- <img src="https://cdn.discordapp.com/attachments/1060651317615415306/1065662790276235385/image.png" width="700" height="400">
-</div>
-<div align="left">
- 
+
 
  ```python
 def fran_afp_(self):
@@ -43,5 +39,3 @@ src="https://img.shields.io/github/followers/franafp?logo=github&style=for-the-b
 <img src="https://skillicons.dev/icons?i=cs,discord,bots,dotnet,github,md,php,linux,py,visualstudio,vscode,"/>
 </p>
 
-
-[<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">](https://youtu.be/iik25wqIuFo)
