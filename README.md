@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/franafp?logo=github&style=for-the-b
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,discord,bots,dotnet,github,php,linux,py,visualstudio,vscode,"/>
+<img src="https://skillicons.dev/icons?i=cs,discord,bots,dotnet,github,md,php,linux,py,visualstudio,vscode,"/>
 </p>
 
 
