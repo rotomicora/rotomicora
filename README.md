@@ -1,28 +1,10 @@
 
-
- ```python
-def fran_afp_(self):
-  self.age = "14 years old"
-  self.name = "fran_afp_"
-  self.twitter = "https://twitter.com/fran_afp"
-  self.youtube = "https://www.youtube.com/fran_afp_"
-  self.website = "https://franafp.es"
-
-  print(f"Age: {self.age}")
-  print(f"Name: {self.name}")
-  print(f"Twitter: {self.twitter}")
-  print(f"YouTube: {self.youtube}")
-  print(f"Website: {self.website}")
-fran_afp_()
-```
-</div>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franafp&layout=compact&exclude_repo=franafp.github.io,NPC_medico-FIVEM,Token-Grabber&theme=dark)
 ![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=franafp&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true)
 
 <p align="center">
 <a href="https://discord.com/users/1060650362643697816">
-<img src="https://lanyard-profile-readme.vercel.app/api/1060650362643697816?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=27px&idleMessage=franafp.es">
+<img src="https://lanyard-profile-readme.vercel.app/api/1060650362643697816?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=27px&idleMessage=franafp.com">
 
 
 
@@ -36,6 +18,6 @@ src="https://img.shields.io/github/followers/franafp?logo=github&style=for-the-b
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,discord,bots,dotnet,github,md,php,linux,py,visualstudio,vscode,"/>
+<img src="https://skillicons.dev/icons?i=cs,discord,bots,dotnet,github,md,bash,php,linux,py,visualstudio,vscode,"/>
 </p>
 
