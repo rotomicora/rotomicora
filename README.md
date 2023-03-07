@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/franafp?logo=github&style=for-the-b
 </p>
  
 <p align="center">
- <h1>Skills</h1>
+ <h1>Learning / Skills</h1>
  <img align="center"src="https://skillicons.dev/icons?i=cs,discord,bots,dotnet,github,md,bash,php,linux,py,visualstudio,vscode"/>
 </p>
 
