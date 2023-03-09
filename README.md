@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franafp&layout=compact&exclude_repo=franafp.github.io,NPC_medico-FIVEM,Token-Grabber&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franafp&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark)
 ![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=franafp&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true)
 
 <p align="center">
