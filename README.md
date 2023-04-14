@@ -23,7 +23,7 @@
 <h3>Contact Me!</h3>
  
  
-<a rel="noreferrer" href="https://instagram.com/fran_afp_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a> <a rel="noreferrer" href="https://twitter.com/fran_afp_"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a> <a rel="noreferrer" href="https://github.com/franafp"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="noreferrer" href="https://discord.com/channels/@me/1060650362643697816"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a> <a rel="noreferrer" href="https://www.linkedin.com/in/fran-acereda-573597262/"><img src="https://skillicons.dev/icons?i=linkedin"> <a rel="noreferrer" href="https://dev.to/franafp"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to"></a>
+<a rel="noreferrer" href="https://instagram.com/fran_afp_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a> <a rel="noreferrer" href="https://twitter.com/fran_afp_"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a> <a rel="noreferrer" href="https://github.com/franafp"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="noreferrer" href="https://projectnoxius.xyz/discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a> <a rel="noreferrer" href="https://www.linkedin.com/in/fran-acereda-573597262/"><img src="https://skillicons.dev/icons?i=linkedin"> <a rel="noreferrer" href="https://dev.to/franafp"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to"></a>
  
 </div>
 
