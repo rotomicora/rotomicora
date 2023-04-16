@@ -9,8 +9,8 @@
  </div>
 
 <div align="center">
-<a href="https://discord.com/users/1060650362643697816">
-<img src="https://lanyard-profile-readme.vercel.app/api/1060650362643697816?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=27px&idleMessage=franafp.com">
+<a href="https://discord.com/users/1094385939347943516">
+<img src="https://lanyard-profile-readme.vercel.app/api/1094385939347943516?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=27px&idleMessage=franafp.com">
  
  </div>
 
