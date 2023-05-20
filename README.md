@@ -1,11 +1,11 @@
 
 <div align="center">
  
-<a aling="left" rel="noreferrer" href="https://help.franafp.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franafp&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark" alt="Top Langs"></a>
+<a aling="left" rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotomicora&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark" alt="Top Langs"></a>
 
 
  
-<a rel="noreferrer" href="https://help.franafp.com"><img src="https://github-readme-stats.vercel.app/api?username=franafp&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true" alt="GitHub Stats"></a>
+<a rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api?username=rotomicora&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true" alt="GitHub Stats"></a>
  </div>
 
 <div align="center">
