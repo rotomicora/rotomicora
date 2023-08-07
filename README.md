@@ -9,8 +9,8 @@
  </div>
 
 <div align="center">
-<a href="https://discord.com/users/1124265635237609562">
-<img src="https://lanyard.cnrad.dev/api/1124265635237609562?theme=dark&bg=292b2f&animated=true&borderRadius=27px">
+<a href="https://discord.com/users/1133476465476915332">
+<img src="https://lanyard.cnrad.dev/api/1133476465476915332?theme=dark&bg=292b2f&animated=true&borderRadius=27px">
  
 </div>
 
